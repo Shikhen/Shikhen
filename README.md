@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shikhen, I'm a beginner Game Developer.
+- 👋 Hi, I’m Shikhen, I'm a Game Developer.
 
 <!---
 Shikhen/Shikhen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
